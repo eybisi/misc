@@ -1,15 +1,16 @@
 # wireshark dissector for mobile game 'headball 2'
 
 ## files
-json.lua -> for json parsing
-hb2.lua -> for dissecting tcp & udp packets
+- json.lua -> for json parsing
+- hb2.lua -> for dissecting tcp & udp packets
 
-put files in Wireshark->About->Folder->Global lua Plugins
+put files in `Wireshark->About->Folder->Global lua Plugins`
 
 ## pcap
-open game
-adb shell tcpdump -i any -p -s 0 -w /sdcard/capture.pcap
-
+- open game
+- adb shell tcpdump -i any -p -s 0 -w /sdcard/capture.pcap
+- adb pull /sdcard/capture.pcap capture.pcap
+- open wireshark -> capture.pcap
 ## filters
 
 ### udp
