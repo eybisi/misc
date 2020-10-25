@@ -9,3 +9,9 @@ Features:
 - Get all contests
 - Auto connect to contests
 - Send questions and answers to bot channel.
+
+Contests
+![](contests.png)
+
+Answers
+![](questions.png)
