@@ -1,0 +1,50 @@
+{
+  "_from": "frida-mono-api",
+  "_id": "frida-mono-api@0.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-/5mshAgr5axWHg4OSULBE4+dZFVRVuJ6+pdbQFIuk38NavqhOgDmSjkzDR4XLOpcd0+Po254Fu8/i6SM3NvhVQ==",
+  "_location": "/frida-mono-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "frida-mono-api",
+    "name": "frida-mono-api",
+    "escapedName": "frida-mono-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/frida-mono-api/-/frida-mono-api-0.0.5.tgz",
+  "_shasum": "ec9c27353ebbc45033e7acc4a00e60efd50ce425",
+  "_spec": "frida-mono-api",
+  "_where": "C:\\Users\\ahmet\\Desktop\\HACKY_MACKY\\frida-mono\\frida-mono-one",
+  "author": {
+    "name": "FreehuntX"
+  },
+  "bugs": {
+    "url": "https://github.com/freehuntx/frida-mono-api/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "frida-ex-nativefunction": "^0.1.2"
+  },
+  "deprecated": false,
+  "description": "All the mono c exports, ready to be used in frida!",
+  "homepage": "https://github.com/freehuntx/frida-mono-api#readme",
+  "keywords": [
+    "frida"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "frida-mono-api",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freehuntx/frida-mono-api.git"
+  },
+  "version": "0.0.5"
+}

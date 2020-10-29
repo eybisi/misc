@@ -1,0 +1,46 @@
+{
+  "_from": "frida-ex-nativefunction@^0.1.2",
+  "_id": "frida-ex-nativefunction@0.1.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Gp1tQWsQnTuoYBuqZurk9NjuObzlR6W2B3mZgtTCUMriSe+6SdW8757s7f2sfDOjLwvp3zLfJvcA4R5NuGkkMw==",
+  "_location": "/frida-ex-nativefunction",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "frida-ex-nativefunction@^0.1.2",
+    "name": "frida-ex-nativefunction",
+    "escapedName": "frida-ex-nativefunction",
+    "rawSpec": "^0.1.2",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.2"
+  },
+  "_requiredBy": [
+    "/frida-mono-api"
+  ],
+  "_resolved": "https://registry.npmjs.org/frida-ex-nativefunction/-/frida-ex-nativefunction-0.1.2.tgz",
+  "_shasum": "9a8757dec08b0dfa55cdf5a3ad93f6b3f5299b00",
+  "_spec": "frida-ex-nativefunction@^0.1.2",
+  "_where": "C:\\Users\\ahmet\\Desktop\\HACKY_MACKY\\frida-mono\\frida-mono-one\\node_modules\\frida-mono-api",
+  "author": {
+    "name": "FreehuntX"
+  },
+  "bugs": {
+    "url": "https://github.com/freehuntx/frida-ex-nativefunction/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Gives you a more powerful NativeFunction for frida.",
+  "homepage": "https://github.com/freehuntx/frida-ex-nativefunction#readme",
+  "keywords": [
+    "frida"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "frida-ex-nativefunction",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freehuntx/frida-ex-nativefunction.git"
+  },
+  "version": "0.1.2"
+}
