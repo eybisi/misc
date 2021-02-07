@@ -1,5 +1,13 @@
+Output of frida script :
 
-Enc dec = xor with 250,158,179
+![Frida Output](images/frida-output.png)
+
+
+Usage: `npm run watch && frida "AQ3D.exe" -l _agent.js`
+
+### Encryption of packets
+
+xor with 250,158,179
 ```java
 private static void EncryptDecrypt(byte[] data)
 	{
