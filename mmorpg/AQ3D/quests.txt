@@ -1,0 +1,1079 @@
+ID: 1
+Name: Do You Have The Stomach?
+
+ID: 2
+Name: Beauty Rest
+
+ID: 7
+Name: Bait and Switch
+
+ID: 8
+Name: Breakfast at Yulgar's
+
+ID: 34
+Name: Placeholder Quest
+
+ID: 37
+Name: Butt Heads
+
+ID: 42
+Name: The Hood
+
+ID: 43
+Name: The Best Defense...
+
+ID: 44
+Name: Capture The Flags
+
+ID: 45
+Name: For SCIENCE!
+
+ID: 46
+Name: Holding A Note
+
+ID: 47
+Name: Boxes Make Me Fort
+
+ID: 48
+Name: Look Over There!
+
+ID: 49
+Name: Stealing From Thieves
+
+ID: 50
+Name: The Thieved Thesis
+
+ID: 51
+Name: The Organ Job
+
+ID: 52
+Name: Books Come From Trees
+
+ID: 53
+Name: Another Favor
+
+ID: 54
+Name: Tipping The Scales
+
+ID: 55
+Name: Jewels Of The Forest
+
+ID: 56
+Name: Jewels Of The Sea
+
+ID: 57
+Name: On The Wings Of Eyeballs
+
+ID: 58
+Name: Recharging
+
+ID: 59
+Name: Silent Screams
+
+ID: 60
+Name: For The Shell Of It
+
+ID: 61
+Name: The Lizard Brain
+
+ID: 62
+Name: Because We Can
+
+ID: 63
+Name: Creative Problem Solving
+
+ID: 64
+Name: Free Samples
+
+ID: 65
+Name: The Brass Ring (Repeatable)
+
+ID: 66
+Name: Welcome To The Sinkhole!
+
+ID: 67
+Name: Cellar Door
+
+ID: 68
+Name: Strange Brew
+
+ID: 69
+Name: Lord of the Pies
+
+ID: 70
+Name: You Can Pick Your Friends
+
+ID: 71
+Name: You Can Pick Your Nose
+
+ID: 72
+Name: You Can't Pick Your Friends Noses
+
+ID: 73
+Name: Going The Distance
+
+ID: 74
+Name: The Final Showdown
+
+ID: 75
+Name: The Final Final Showdown
+
+ID: 76
+Name: Reed
+
+ID: 77
+Name: The Boy Who Cried Wolf
+
+ID: 78
+Name: Assaulted Nuts
+
+ID: 79
+Name: Seedkeeper
+
+ID: 80
+Name: Ace of Spades
+
+ID: 82
+Name: Confession
+
+ID: 83
+Name: Good Clean Dirt
+
+ID: 84
+Name: Water From Water
+
+ID: 85
+Name: Waters Rise
+
+ID: 86
+Name: Stir The Winds
+
+ID: 87
+Name: The Hart's Heart
+
+ID: 89
+Name: Signed, Sealed, Delivered
+
+ID: 90
+Name: Bring The Bees
+
+ID: 91
+Name: Monstrous Essence
+
+ID: 92
+Name: Root of all Evil
+
+ID: 93
+Name: A Child's Wisdom
+
+ID: 94
+Name: Remembering Old Friends
+
+ID: 95
+Name: A Friend Indeed
+
+ID: 96
+Name: Warlord Gamush
+
+ID: 97
+Name: The Most Obvious Place
+
+ID: 98
+Name: Stuff And Things
+
+ID: 99
+Name: Even Better Than The Real Thing
+
+ID: 100
+Name: Stick Together
+
+ID: 101
+Name:  Red Leather, Yellow Leather
+
+ID: 102
+Name: A Healthy Stink
+
+ID: 103
+Name: What Counts
+
+ID: 104
+Name: Flying Response
+
+ID: 105
+Name: Potions of A Questionable Nature
+
+ID: 106
+Name: A Leader's Role
+
+ID: 107
+Name: Smashy Smashy
+
+ID: 108
+Name: Follow That Rock
+
+ID: 109
+Name: Time To Rock
+
+ID: 110
+Name: The Rocklord
+
+ID: 111
+Name: Saturated with Box
+
+ID: 112
+Name: Mouth Parts
+
+ID: 113
+Name: Trolluk Toenails
+
+ID: 114
+Name:  That Special Fungus
+
+ID: 115
+Name: Pebblars Final Form
+
+ID: 116
+Name: Artix Von Krieger
+
+ID: 117
+Name: No Sign Of Life
+
+ID: 118
+Name: This Looks Bad
+
+ID: 119
+Name: Name The Enemy
+
+ID: 120
+Name: Shadow Shapes
+
+ID: 121
+Name: The Driven Soul
+
+ID: 122
+Name: Strike a Light
+
+ID: 123
+Name: Ring of Truth
+
+ID: 124
+Name: Excavation
+
+ID: 125
+Name: Filling In the Blanks
+
+ID: 126
+Name: The Turncoat
+
+ID: 127
+Name: Confirmation
+
+ID: 128
+Name: Captive Souls
+
+ID: 129
+Name: Wolfing Them Down
+
+ID: 130
+Name: Resupply
+
+ID: 131
+Name: Bringing Home The Broadswords
+
+ID: 132
+Name: Fortifications
+
+ID: 133
+Name: The Field Book of Blessings
+
+ID: 134
+Name: Shattered Teeth
+
+ID: 135
+Name: Dust to Dust
+
+ID: 136
+Name: Clean Up
+
+ID: 137
+Name: Big Bones
+
+ID: 138
+Name: Gravedigger Loth 
+
+ID: 139
+Name: Breathing Room
+
+ID: 141
+Name: Only as Good as Your Tools
+
+ID: 142
+Name: Locked Knowledge
+
+ID: 143
+Name: The Missing Key
+
+ID: 144
+Name: Spirit-Chests
+
+ID: 145
+Name: Rightful Owner
+
+ID: 146
+Name: A Combination
+
+ID: 147
+Name: Six to the Left
+
+ID: 148
+Name: Fifteen to the Right
+
+ID: 149
+Name: Check Your Work
+
+ID: 150
+Name: Continue the Combination
+
+ID: 151
+Name: Twenty-two to the Right
+
+ID: 152
+Name: Seven to the Left
+
+ID: 153
+Name: The Second Seal
+
+ID: 154
+Name: The Final Combination
+
+ID: 155
+Name: Three to the Left
+
+ID: 156
+Name: Ten to the Right
+
+ID: 157
+Name: The Last Seal
+
+ID: 158
+Name: A Blade of Bone
+
+ID: 159
+Name: The Right Hands
+
+ID: 160
+Name: The Sacrifice
+
+ID: 161
+Name: The GateWraith
+
+ID: 162
+Name: Heath's Ghost 
+
+ID: 163
+Name: Brute Force Attacks
+
+ID: 164
+Name: Beware of Dogs
+
+ID: 165
+Name: Heavy Hitters
+
+ID: 166
+Name: Undead Courier
+
+ID: 167
+Name: Plans Revealed 
+
+ID: 168
+Name: Plague Bombs
+
+ID: 170
+Name: Made of Death 
+
+ID: 171
+Name: General Gathmor 
+
+ID: 173
+Name: Test of Might
+
+ID: 174
+Name: Test of Duty
+
+ID: 175
+Name: Test of Sacrifice
+
+ID: 176
+Name: Playground
+
+ID: 177
+Name: Test of Patience
+
+ID: 178
+Name: Test of Determination
+
+ID: 179
+Name: Improvised Tools
+
+ID: 180
+Name: Fight Fire With...
+
+ID: 181
+Name: Follow The Clues
+
+ID: 182
+Name: The Bouncer
+
+ID: 183
+Name: The Big Guy
+
+ID: 184
+Name: Enter the Tower - UNUSED
+
+ID: 190
+Name: Sentimental Value
+
+ID: 191
+Name: Cruelty
+
+ID: 192
+Name: The Bladedog
+
+ID: 193
+Name: Light In The Dark
+
+ID: 194
+Name: Strong Medicine
+
+ID: 195
+Name: Missing Persons
+
+ID: 196
+Name: Grizzly Keepsake
+
+ID: 197
+Name: More Medicine
+
+ID: 198
+Name: Cycle of Death
+
+ID: 199
+Name: Scarce Resources
+
+ID: 200
+Name: Polishing Silver
+
+ID: 201
+Name: Unsilent Tombs
+
+ID: 202
+Name: Reliquaries 
+
+ID: 203
+Name: Shattered Seals 
+
+ID: 204
+Name: Silk and Bone
+
+ID: 205
+Name: Nightlocke's Weapon
+
+ID: 206
+Name: The Tower's Keeper
+
+ID: 209
+Name: The Ooze
+
+ID: 210
+Name: The Horn
+
+ID: 211
+Name: The Talon
+
+ID: 212
+Name: The Secret Form
+
+ID: 213
+Name: The Orbs
+
+ID: 214
+Name: The Price For Treachery
+
+ID: 215
+Name: Guard Zards
+
+ID: 216
+Name: Red Mystery
+
+ID: 217
+Name: Mind Control Juice
+
+ID: 218
+Name: Precious Treasures
+
+ID: 219
+Name: The Usurper
+
+ID: 220
+Name: King's Riches
+
+ID: 221
+Name: Clippings 
+
+ID: 222
+Name: Tipping The Scales
+
+ID: 223
+Name: A Price Too High
+
+ID: 224
+Name: Creeping Death
+
+ID: 225
+Name: Prison of Trees
+
+ID: 226
+Name: Last Ditch Effort
+
+ID: 227
+Name: Sticky Situation
+
+ID: 228
+Name: Meat
+
+ID: 229
+Name: Ghost Dog
+
+ID: 230
+Name: Blocked Sightlines
+
+ID: 231
+Name: Minor Artifacts
+
+ID: 232
+Name: Unraveling Rituals
+
+ID: 233
+Name: Stolen Magic
+
+ID: 234
+Name: Mules
+
+ID: 235
+Name: Seeds of Destruction
+
+ID: 236
+Name: Hornet's Nest
+
+ID: 237
+Name: Blightcrystal bandit
+
+ID: 238
+Name: Handle With Care
+
+ID: 239
+Name: Stolen Goods
+
+ID: 240
+Name: Equipment
+
+ID: 241
+Name: New Breed
+
+ID: 242
+Name: Gravel
+
+ID: 243
+Name: In The Mud
+
+ID: 244
+Name: Rest for the Restless
+
+ID: 245
+Name: Soothing Ritual
+
+ID: 246
+Name: Naming The Dead
+
+ID: 247
+Name: All Seeing
+
+ID: 248
+Name: Feeding TIme
+
+ID: 249
+Name: A Flame In the Woods
+
+ID: 250
+Name: Mitch Better Have My Money
+
+ID: 251
+Name: Bludroot
+
+ID: 252
+Name: Percy Test Halloween Quest
+
+ID: 253
+Name: Wicked Witch Of The West Wing
+
+ID: 254
+Name: Wicked Warlock Of The East Wing
+
+ID: 255
+Name: The Pumpkin Lord
+
+ID: 256
+Name: Gourd'thulu
+
+ID: 257
+Name: Disturbances
+
+ID: 258
+Name: Eve's Revenge!
+
+ID: 259
+Name: Introductions, Part 1
+
+ID: 260
+Name: Quality Ingredients
+
+ID: 261
+Name: Introductions, Part 2
+
+ID: 262
+Name: A Simple Test
+
+ID: 263
+Name: Introductions, Part 3
+
+ID: 264
+Name: Enemy Mine
+
+ID: 265
+Name: Introductions, Part 4
+
+ID: 266
+Name: The Nature Of Balance
+
+ID: 267
+Name: Introductions, Part 5
+
+ID: 268
+Name: The Sworn Guardian
+
+ID: 269
+Name: Return to Zoria
+
+ID: 270
+Name: Talk to Gaz
+
+ID: 271
+Name: Recon
+
+ID: 272
+Name: Seek and Destroy
+
+ID: 273
+Name: Rescue Villagers!
+
+ID: 274
+Name: Replace Gaz's Cart Wheels
+
+ID: 275
+Name: Take out the Elite Skeltal Invaders
+
+ID: 276
+Name: Face Gorthor
+
+ID: 277
+Name: Travel to Battleon
+
+ID: 278
+Name: Your 1st QUEST!
+
+ID: 279
+Name: Save Sally & Grampy!
+
+ID: 280
+Name: Talk To Guardian General
+
+ID: 281
+Name: Destroy Skeletal Soldiers
+
+ID: 282
+Name: Defeat the Elite Skeletal Invader
+
+ID: 283
+Name: Walk to the Keep
+
+ID: 284
+Name: Grampy's Quest
+
+ID: 285
+Name: Find Sally's Mom
+
+ID: 286
+Name: Click the Crystal
+
+ID: 287
+Name: Hall of Secrets
+
+ID: 290
+Name: Watchful Parents
+
+ID: 291
+Name: Egg Basket
+
+ID: 292
+Name: Eye Owe You
+
+ID: 293
+Name: Freedom Gas
+
+ID: 294
+Name: Acevorah
+
+ID: 295
+Name: More Brainticks!
+
+ID: 296
+Name: Ace-More-ah!
+
+ID: 297
+Name: Disimpacting
+
+ID: 299
+Name: The DragonSlayer Camp
+
+ID: 300
+Name: Find Galanoth
+
+ID: 301
+Name: Quartermaster Senna
+
+ID: 303
+Name: The Seal of Generosity
+
+ID: 304
+Name: The Seal of Kindness
+
+ID: 305
+Name: The Seal of Peace
+
+ID: 306
+Name: The Seal of Hope
+
+ID: 307
+Name: The Yettun's Cave
+
+ID: 308
+Name: DrickenSlayer
+
+ID: 309
+Name: Imp-ossibile
+
+ID: 310
+Name: The Dragonling
+
+ID: 311
+Name: The Fire Within
+
+ID: 312
+Name: Placing Pikes
+
+ID: 313
+Name: Report to Commander Kord
+
+ID: 314
+Name: Senna Buns
+
+ID: 315
+Name: To the Firefields!
+
+ID: 316
+Name: Probing
+
+ID: 317
+Name: Improvised Explosives
+
+ID: 318
+Name: Sulfur, So good
+
+ID: 319
+Name: Charred Trees
+
+ID: 320
+Name: Place the Bombs
+
+ID: 321
+Name: Gorm the Lava Monster
+
+ID: 322
+Name: To the Upper Firefields
+
+ID: 323
+Name: Deep Shame
+
+ID: 324
+Name: Important Information
+
+ID: 325
+Name: Zard Day's Night
+
+ID: 326
+Name: Get Chorty
+
+ID: 327
+Name: Spy On Valek
+
+ID: 328
+Name: Framing Firezards
+
+ID: 329
+Name: Framing Phans
+
+ID: 330
+Name: For The Shell Of It
+
+ID: 331
+Name: Start a war!
+
+ID: 332
+Name: Slay Valek
+
+ID: 333
+Name: Make Your Report
+
+ID: 334
+Name: Ixtis Silk
+
+ID: 335
+Name: Blightcrystal Dust
+
+ID: 336
+Name: Pristine Dravir Scale
+
+ID: 337
+Name: Report to Wulf
+
+ID: 338
+Name: Lay of the Land
+
+ID: 339
+Name: Just Ask
+
+ID: 340
+Name: Find the Tome
+
+ID: 341
+Name: Crimson Oculus
+
+ID: 342
+Name: Warsworn
+
+ID: 343
+Name: Speak to Essa
+
+ID: 344
+Name: Fools Rush In
+
+ID: 345
+Name: Misdirection
+
+ID: 346
+Name: The High Ground
+
+ID: 347
+Name: Bars Can't Stop Us
+
+ID: 348
+Name: Fast Food
+
+ID: 349
+Name: Malthas Falls
+
+ID: 350
+Name: In Memory
+
+ID: 351
+Name: Bearer Of Bad Tidings
+
+ID: 352
+Name: Speak to Dell
+
+ID: 353
+Name: Hunt Shard Pebblars
+
+ID: 354
+Name: Sentinel Salvage
+
+ID: 355
+Name: FIX IT QUICK!
+
+ID: 356
+Name: Slay Steelfang
+
+ID: 357
+Name: Get Rich Quick
+
+ID: 359
+Name: Travel to Tower Pass
+
+ID: 360
+Name: Examination
+
+ID: 361
+Name: Activate the Shrines
+
+ID: 362
+Name: Worm Slayer
+
+ID: 363
+Name: The Last Shrine
+
+ID: 364
+Name: Ashfall Guardian Tower
+
+ID: 365
+Name: Report to Galanoth
+
+ID: 366
+Name: Crystal Shard Miner
+
+ID: 367
+Name: Resuse-----------
+
+ID: 368
+Name: A Stone like Grip
+
+ID: 369
+Name: Pure Crystal
+
+ID: 370
+Name: Unique Crystal 
+
+ID: 371
+Name: Spider Crystal Shards
+
+ID: 372
+Name: Slay The Undead
+
+ID: 373
+Name: To The Keep
+
+ID: 375
+Name: Seek and Destroy
+
+ID: 376
+Name: Rescue Villagers!
+
+ID: 377
+Name: New Cart Wheels
+
+ID: 378
+Name: Take out the Elites
+
+ID: 379
+Name: Face The Warfiend
+
+ID: 381
+Name: Talk to Twilly
+
+ID: 382
+Name: Go to the town of Battleon!
+
+ID: 383
+Name: Rank 1 - Battleon Defenders
+
+ID: 384
+Name: Rank 2 - Battleon Defenders
+
+ID: 385
+Name: Rank 3 - Battleon Defenders
+
+ID: 386
+Name: Rank 4 - Battleon Defenders
+
+ID: 387
+Name: Rank 5 - Battleon Defenders
+
+ID: 388
+Name: Rank 6 - Battleon Defenders
+
+ID: 389
+Name: Rank 7 - Battleon Defenders
+
+ID: 390
+Name: Rank 8 - Battleon Defenders
+
+ID: 391
+Name: Rank 9 - Battleon Defenders
+
+ID: 392
+Name: Rank 10 - Battleon Defenders
+
+ID: 393
+Name: Rank 11 - Battleon Defenders
+
+ID: 394
+Name: Rank 12 - BattleOn Defenders
+
+ID: 395
+Name: Rank 13 - Battleon Defenders
+
+ID: 396
+Name: Rank 14 - Battleon Defenders
+
+ID: 397
+Name: Rank 15 - Battleon Defenders
+
+ID: 398
+Name: Rank 16 - Battleon Defenders
+
+ID: 399
+Name: Rank 17 - Battleon Defenders
+
+ID: 400
+Name: Rank 18 - Battleon Defenders
+
+ID: 401
+Name: Rank 19 - Battleon Defenders
+
+ID: 402
+Name: Rank 20 - Battleon Defenders
+
+ID: 404
+Name: Talk to Twilly
+
+ID: 406
+Name: Visit Yulgar's Inn
+
+ID: 407
+Name: Go to Guardian Tower
+
+ID: 408
+Name: Talk to Cysero
+
+ID: 409
+Name: The Travel Crystal
+
+ID: 410
+Name: Go Adventuring!
+
+ID: 411
+Name: YOU DELIVER FROOT
+
+ID: 412
+Name: Return to Twilly
+
+ID: 413
+Name: Dim Knight
+
+ID: 414
+Name: Dark Knight
+
+ID: 415
+Name: Darker Knight
+
+ID: 416
+Name: Darkest Knight

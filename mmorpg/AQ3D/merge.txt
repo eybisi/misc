@@ -1,0 +1,89 @@
+ID: 1
+Name: Test Merge Shop
+
+ID: 3
+Name: Merge Shop 2
+
+ID: 5
+Name: Robina - Barrow Point
+
+ID: 7
+Name: Gamush - Greenguard Cave
+
+ID: 9
+Name: Metrea - Trainers
+
+ID: 11
+Name: Arcana - Trainers
+
+ID: 13
+Name: Zealot - Doomwood Graveyard
+
+ID: 15
+Name: Cysero - Forge
+
+ID: 17
+Name: Loth - Doomwood Graveyard
+
+ID: 19
+Name: Heath - Doomwood Bridge
+
+ID: 21
+Name: Balis - Crimson Caverns
+
+ID: 23
+Name: Artix - Skull Tower
+
+ID: 25
+Name: Myx - Haunted Manor
+
+ID: 27
+Name: Craft Ebil Items
+
+ID: 31
+Name: Cysero - Barrow Drop
+
+ID: 33
+Name: Dragonslayer Crafting Shop
+
+ID: 35
+Name: Blizzy - Frost Labyrinth
+
+ID: 37
+Name: Senna's Stitches
+
+ID: 39
+Name: DragonSlayer Material Crafting
+
+ID: 41
+Name: Dragon Stalker Crafting
+
+ID: 43
+Name: Mine Crystal Crafting 2
+
+ID: 45
+Name: Brimston Crafting
+
+ID: 47
+Name: Crimson Renegade Crafting
+
+ID: 49
+Name: BatleOn Defender Belts
+
+ID: 51
+Name: BatleOn Defender Helms
+
+ID: 53
+Name: BatleOn Defender Boots
+
+ID: 55
+Name: BatleOn Defender Back Items
+
+ID: 57
+Name: GUARDIAN defender armor
+
+ID: 59
+Name: GUARDIAN defender travel form
+
+ID: 61
+Name: Battle Gem Crafting

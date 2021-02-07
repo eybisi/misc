@@ -1,0 +1,142 @@
+001 - Yulgar's Shop
+002 - AlphaKnight Shop
+003 - Artix Shop
+004 - N/A
+005 - N/A
+006 - Cysero's Shop
+007 - Gaz's Black Market
+008 - Faith's Gear Shop
+009 - Metrea's Rogue Shop
+010 - Thok's Warrior Shop
+011 - Arcana's Mage Shop
+012 - Potion Shop
+013 - Kickstarter Rewards
+014 - Gaz's Cart
+015 - N/A
+016 - Herbalist's Shop
+017 - Code Redeem Shop
+018 - Robina's Shop
+019 - Gamush's Stuff
+020 - Hero Starter Shop
+021 - Kickstarter Guardian Shop
+022 - Guardian Shop
+023 - Collector's Edition Shop
+024 - Epic Founder Shop
+025 - Alpha Pirate Shop
+026 - Legendary Founder Shop
+027 - Beta Shop
+028 - Cysero's Barrowdrop Shop
+029 - *RESTRICTED ACESS*
+030 - Senna's Supplies
+031 - Senna's Chest
+032 - Kord's Chest
+033 - Galanoth's Chest
+034 - DragonSlayer Tent Armory
+035 - Guardian Tent Shop
+036 - DragonSlayer Guardian Chest
+037 - Underworld Goods
+038 - *RESTRICTED ACESS*
+039 - *RESTRICTED ACESS*
+040 - *RESTRICTED ACESS*
+041 - *RESTRICTED ACESS*
+042 - *RESTRICTED ACESS*
+043 - *RESTRICTED ACESS*
+044 - *RESTRICTED ACESS*
+045 - *RESTRICTED ACESS*
+046 - *RESTRICTED ACESS*
+047 - *RESTRICTED ACESS*
+048 - *RESTRICTED ACESS*
+049 - *RESTRICTED ACESS*
+050 - *RESTRICTED ACESS*
+051 - *RESTRICTED ACESS*
+052 - *RESTRICTED ACESS*
+053 - *RESTRICTED ACESS*
+054 - *RESTRICTED ACESS*
+055 - *RESTRICTED ACESS*
+056 - *RESTRICTED ACESS*
+057 - *RESTRICTED ACESS*
+058 - *RESTRICTED ACESS*
+059 - *RESTRICTED ACESS*
+060 - *RESTRICTED ACESS*
+061 - *RESTRICTED ACESS*
+062 - *RESTRICTED ACESS*
+063 - *RESTRICTED ACESS*
+064 - *RESTRICTED ACESS*
+065 - *RESTRICTED ACESS*
+066 - *RESTRICTED ACESS*
+067 - *RESTRICTED ACESS*
+068 - *RESTRICTED ACESS*
+069 - *RESTRICTED ACESS*
+070 - *RESTRICTED ACESS*
+071 - *RESTRICTED ACESS*
+072 - *RESTRICTED ACESS*
+073 - *RESTRICTED ACESS*
+074 - *RESTRICTED ACESS*
+075 - *RESTRICTED ACESS*
+076 - *RESTRICTED ACESS*
+077 - *RESTRICTED ACESS*
+078 - *RESTRICTED ACESS*
+079 - *RESTRICTED ACESS*
+080 - *RESTRICTED ACESS*
+081 - *RESTRICTED ACESS*
+082 - *RESTRICTED ACESS*
+083 - *RESTRICTED ACESS*
+084 - *RESTRICTED ACESS*
+085 - *RESTRICTED ACESS*
+086 - *RESTRICTED ACESS*
+087 - *RESTRICTED ACESS*
+088 - *RESTRICTED ACESS*
+089 - *RESTRICTED ACESS*
+090 - *RESTRICTED ACESS*
+091 - *RESTRICTED ACESS*
+092 - *RESTRICTED ACESS*
+093 - *RESTRICTED ACESS*
+094 - *RESTRICTED ACESS*
+095 - Warlic's Magic Shoppe
+096 - May The 4TH Shop
+097 - Open Beta Shop
+098 - Guardian Defender Tokens
+099 - Battleon Tree
+100 - Peach's Peaches
+101 - Crystal Eye Shop
+102 - Bank Shop
+103 - Shroot's Shop
+104 - Edon's Shop
+105 - River Stone
+106 - Dread Stone
+107 - Dreadwood Trunk
+108 - Sneevil Stash
+109 - Robina's Bag
+110 - RolithTestShop
+111 - Pirate Shop
+112 - N/A
+113 - 2017 Pirate Collection (Need Pirate Collector's Chest 2017)
+114 - N/A
+115 - N/A
+116 - War Test Shop
+117 - Soggy Bag
+118 - Weathered Chest
+119 - Moldy Sack
+120 - Rotten Box
+121 - Bloody Duffle Bag
+122 - Leather Bag
+123 - Rusty Chest
+124 - Weathered Chest
+125 - Burlap Sack
+126 - Tasty Treats
+127 - Souvenir Shop
+128 - 2017 Mogloween Collection
+129 - 2017 Mogloween Collection (Need Mogloween Collector's Chest 2017)
+130 - Shadowslayer Pledge
+131 - Shadowslayer Shop
+132 - Lucretia's Potions
+133 - Invisible Shop
+137 - Community Capes
+138 - Frosty Reagents
+139 - 2017 Frostval Collection
+140 - 2017 Frostval Collection
+141- 15th Anniversary
+142- Mousekin Shop
+143 - Volcanic Materials
+144 - Ebon Talon Vault
+145 - DragonSlayer Equipment
