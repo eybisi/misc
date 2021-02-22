@@ -1,8 +1,8 @@
 ### Clipwatch
 
 Genymotion has access to host's clipboard to be able to copy paste text to emulator. 
-It is enabled by default. Malware can steal host's clipboard history just by using clipboardmonitorservice.
-To use clipboardmonitorservice apps doesnt need any permission. 
+It is enabled by default. Malware can steal host's clipboard data just by using clipboardmonitorservice.
+To use clipboardmonitorservice, apps doesnt need any permission. 
 
 You can build this project or download [clipwatch.apk](clipwatch.apk) and test yourself.
 
