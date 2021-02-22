@@ -10,3 +10,5 @@ Here is the demonstration [video](https://www.youtube.com/watch?v=Tod8Q6sf0P8)
 
 
 I reported it to genymotion and they said `You can disable it` :man_shrugging:
+
+Disputed CVE : [CVE-2021-27549](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-27549)
