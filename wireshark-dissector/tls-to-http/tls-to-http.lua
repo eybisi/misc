@@ -1,5 +1,5 @@
 local json = require 'json'
-strip_ssl_protocol = Proto("dum tek tek",  "dum tek tek protocaol")
+strip_ssl_protocol = Proto("dumtektek",  "wtf")
 local frame_time = Field.new("frame.time_epoch")
 local src_addr = Field.new("ip.src")
 local dst_addr = Field.new("ip.dst")
@@ -7,8 +7,12 @@ local src_port = Field.new("tcp.srcport")
 local dst_port = Field.new("tcp.dstport")
 local seq_num = Field.new("tcp.seq_raw")
 local ack_num = Field.new("tcp.ack_raw")
-
-
+local args = { ... } 
+if #args ~= 1 then
+    print('give output file name with -X lua_script1:filename')
+    return
+end
+local output_file_name = args[1]
 strip_ssl_protocol.prefs.text = Pref.statictext("writen in hell")
 local function getstring(finfo)
     local ok, val = pcall(tostring,finfo)
@@ -48,15 +52,15 @@ function strip_ssl_protocol.dissector(buffer, pinfo, tree)
         a["ack_num"] = tonumber(tostring(ack_num()))
         a["http_raw"] = tostring(http_res)
         enc  = json.encode(a)
-        print(enc)
-
+        local output_file = io.open(output_file_name,"a")
+        io.output(output_file)
+        io.write(enc .. "\n")
+        io.close(output_file)
         --print(http_h())
     end
     return 1
 end
 
---DissectorTable.get("tls.port"):add(443,strip_ssl_protocol)
---DissectorTable.get("tcp.port"):add(443,strip_ssl_protocol)
 register_postdissector(strip_ssl_protocol)
 print('loading dumtektek')
 
