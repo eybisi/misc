@@ -12,7 +12,8 @@ if you have pcapng file with tls session keys and wireshark can decrypt tls.appl
     h = HttpStripper(f"stipped_output.pcap")
     if h.parse_http_file('stripped.txt'):
         print('success')
-        ```
+```
+
 
 ### Why ?
 
