@@ -4,9 +4,15 @@ if you have pcapng file with tls session keys and wireshark can decrypt tls.appl
 
 ### Usage 
 
-- run tshark with this dissector (add files to `Help->About->Folders->Personal Lua Plugins` folder)
+- run tshark with this dissector `tshark -r com_dismiss_ten.pcap -X lua_script:tls-to-http.lua -X lua_script1:stripped.txt`  (add files to `Help->About->Folders->Personal Lua Plugins` folder)
 - copy http logs
 - run python script with http logs
+
+```python
+    h = HttpStripper(f"stipped_output.pcap")
+    if h.parse_http_file('stripped.txt'):
+        print('success')
+        ```
 
 ### Why ?
 
